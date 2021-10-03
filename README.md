@@ -1,2 +1,2 @@
 # tvshows-recomendations
-Created with CodeSandbox
+Click on a genre and find the shows with the ratings.
